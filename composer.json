@@ -1,0 +1,10 @@
+{
+    "name": "admin/backend_php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Admin\\BackendPhp\\": "src/"
+        }
+    },
+    "require": {}
+}
